@@ -24,6 +24,7 @@
     <ProjectGuid>{5747f495-2a4f-4462-95f2-7ae4b1f310fa}</ProjectGuid>
     <RootNamespace>firstopenglproject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>opengl-basics</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
